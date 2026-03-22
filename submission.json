@@ -1,0 +1,7 @@
+{
+  "prompt": "An old family photograph lying on a wooden table, the image slowly melting like ice, edges dripping into water, warm orange tones replacing cool blue tones, emotional and nostalgic atmosphere, realistic, cinematic lighting, no text, no labels --no charts, no graphs, no globes",
+  "model": "DALL·E 3",
+  "dataset_name": "NASA Global Surface Temperature Anomalies",
+  "dataset_url": "https://data.giss.nasa.gov/gistemp/",
+  "insight": "The last decade is the hottest in human history"
+}
